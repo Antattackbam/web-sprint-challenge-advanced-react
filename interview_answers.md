@@ -2,6 +2,7 @@
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. These will not be counted as a part of your sprint score but will be helpful for preparing you for your endorsement interview, and enhancing overall understanding.
 
 1. What are the main differences between a stateful and a functional component?
+Stateful component will update or somehow make changes to state. Functional component will simply render the information it is given
 
 2. When does a componentWillMount function be called? What about a componentWillUpdate?
 
