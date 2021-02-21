@@ -5,7 +5,10 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 Stateful component will update or somehow make changes to state. Functional component will simply render the information it is given
 
 2. When does a componentWillMount function be called? What about a componentWillUpdate?
+before render, after render
 
 3. Define stateful logic.
+code directly intertwined with your state, rather than just static
 
 4. What are the three step of creating a successful test? What is done in each phase?
+arrange, act, assert
